@@ -14,7 +14,7 @@ Feel free to access [my portfolio](http://google.com).
 > 
 >
 
-*Hello*
+**Hello**
 
 * Rapid Dev
 + Tested
